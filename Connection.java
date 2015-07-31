@@ -13,7 +13,7 @@ import java.net.SocketTimeoutException;
 import java.net.URL;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
-import java.util.zip.GZIPInputStream;
+import java.util.zip.GZIPInputStream
 
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
